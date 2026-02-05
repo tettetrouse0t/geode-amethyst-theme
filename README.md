@@ -305,15 +305,15 @@ Found an issue or have an improvement idea?
 
 ## 👤 Author
 
-**FlapDeny-dev**
+**tettetrouse0t**
 
-- GitHub: [@FlapDeny-dev](https://github.com/FlapDeny-dev)
+- GitHub: [@tettetrouse0t](https://github.com/tettetrouse0t)
 
 ## 📄 License
 
 MIT License — see [LICENSE.txt](LICENSE.txt) file
 
-Copyright (c) 2026 FlapDeny-dev
+Copyright (c) 2026 tettetrouse0t
 
 ## 💖 Acknowledgments
 
@@ -323,7 +323,7 @@ Inspired by the natural beauty of amethyst geodes — volcanic rocks that form o
 
 ---
 
-**Made with 💎 by FlapDeny-dev**
+**Made with 💎 by tettetrouse0t**
 
 ---
 
