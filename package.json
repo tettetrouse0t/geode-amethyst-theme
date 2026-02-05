@@ -3,12 +3,16 @@
     "version": "1.0.0",
     "displayName": "Geode Amethyst",
     "description": "Crystalline beauty hidden in darkness — a theme forged in geological time. Inspired by amethyst geodes with their deep purple crystals.",
-    "publisher": "FlapDeny-dev",
+    "publisher": "tettetrouse0t",
     "author": {
-        "name": "FlapDeny-dev",
-        "url": "https://github.com/FlapDeny-dev"
+        "name": "tettetrouse0t",
+        "url": "https://github.com/tettetrouse0t/geode-amethyst-theme"
     },
     "license": "MIT",
+    "main": "extension.js",
+    "activationEvents": [
+        "onStartupFinished"
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -35,12 +39,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/FlapDeny-dev/geode-amethyst-theme"
+        "url": "https://github.com/tettetrouse0t/geode-amethyst-theme"
     },
     "bugs": {
-        "url": "https://github.com/FlapDeny-dev/geode-amethyst-theme/issues"
+        "url": "https://github.com/tettetrouse0t/geode-amethyst-theme/issues"
     },
-    "homepage": "https://github.com/FlapDeny-dev/geode-amethyst-theme#readme",
+    "homepage": "https://github.com/tettetrouse0t/geode-amethyst-theme#readme",
     "contributes": {
         "themes": [
             {
@@ -72,6 +76,13 @@
                 "label": "Geode Amethyst Cave",
                 "uiTheme": "vs-dark",
                 "path": "./themes/geode-amethyst-cave.json"
+            }
+        ],
+        "commands": [
+            {
+                "command": "geode-amethyst.showWelcome",
+                "title": "Show Welcome",
+                "category": "Geode Amethyst"
             }
         ]
     }
